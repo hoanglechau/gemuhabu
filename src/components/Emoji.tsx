@@ -1,5 +1,5 @@
 import bullsEye from "../assets/bulls-eye.webp";
-import thumpsUp from "../assets/thumps-up.webp";
+import thumpsUp from "../assets/thumbs-up.webp";
 import meh from "../assets/meh.webp";
 import { Image, ImageProps } from "@chakra-ui/react";
 
