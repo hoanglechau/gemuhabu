@@ -14,21 +14,8 @@
       <ul>
         <li><a href="#project-description">Project Description</a></li>
         <li><a href="#user-stories">User Stories</a></li>
-        <li><a href="#notable-features">Notable Features</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
-    </li>
-    <li>
-      <a href="#api-endpoints">API Endpoints</a>
-      <ul>
-        <li><a href="#client-apis">Client APIs</a></li>
-        <li><a href="#general-apis">General APIs</a></a></li>
-        <li><a href="#management-apis">Management APIs</a></a></li>
-        <li><a href="#sales-apis">Sales APIs</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#entity-relationship-diagram">Entity Relationship Diagram</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
